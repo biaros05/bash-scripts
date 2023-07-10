@@ -20,4 +20,10 @@ In this folder, the scripts i have written are:
   - mkdirs.sh: makes directories with the names given as arguments
   - sum.sh: asks for numbers and sums them until -1 is typed. it also displays the average of those numbers
   ### System info
-  This folder contains scripts that check system information or finds
+  This folder contains scripts that check system information or finds informaton based on gien arguments:
+  - cal_date.sh displays a calendar of the current month and the current date and time.
+  - checkuser.sh: checks if the user exists in the system you are using.
+  - display.sh: displays information about the overall OS environment, such as user, current directory, and more.
+  - evaluates files given in the cmd and displays the filename and file size in KB.
+  ### Regex
+  challenge.sh: checks a file and validates passwords, phone numbers, and postal codes
